@@ -309,6 +309,11 @@ const slider = function () {
 };
 slider();
 
+const newFeature = function () {
+  console.log('Welcome to the aplication');
+};
+newFeature();
+
 // -100%, 0%, 100%, 200%
 
 ////////////////////////
