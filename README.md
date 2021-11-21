@@ -2,4 +2,4 @@
 
 Project to build a marketing website for a fictional banking fintech startup.
 
-View >> https://ashrafstakala.github.io/js-bankist-website
+https://bankist-website.web.app/
